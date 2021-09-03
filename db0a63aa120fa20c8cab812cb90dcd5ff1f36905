@@ -1,0 +1,1 @@
+{"jobID":"52536c37-78b5-9567-e133-b18dd75e35c3","spec":{"type":"policy","cause":{"Message":"","User":"Joel Morales \u003cjoel.morales@globant.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
